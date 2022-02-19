@@ -1,0 +1,52 @@
+.sidebarLogo > .twitterLogo {
+    font-size: 2em;
+    color: #ffffffd5;
+    margin-left: 60%;
+    margin-top: 3%;
+}
+
+.sidebarItems > ul {
+    list-style-type: none;
+    color: #ffffffd5;
+    font-size: clamp(0.5em, 1.5vw, 1.2rem);
+    margin-left: 60%;
+    margin-top: 3%;
+}
+
+.sidebarItems > ul > li {
+    margin-top: 10%;
+}
+
+.sidebarButton {
+    margin-top: 3%;
+    margin-left: 57%;
+    width: 35%;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: #00acee;
+    color: #ffffffd5;
+    text-align: center;
+}
+
+.sidebarProfile {
+    margin-top: 57%;
+    margin-left: 58%;
+    display: flex;
+    font-size: clamp(0.5em, 1vw, 1rem);
+}
+
+.sidebarProfile > .profileDetail {
+    color: #ffffffd5;
+    margin-left: 3%;
+    margin-top: 5px;
+}
+
+
+.user {
+    color: gray;
+}
+
+span {
+    font-size: 1.5em;
+    margin-right: 10px;
+}

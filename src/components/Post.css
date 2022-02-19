@@ -1,0 +1,33 @@
+.headerPublish {
+    padding: 20px;
+    font-size: 0.7em;
+    display: flex; 
+}
+
+.publishInfo {
+    margin-left: 3%;
+}
+
+.contentPublish {
+    font-size: 1.5em;
+}
+
+.imgPublish {
+    width: 50px;
+    height: 50px;
+}
+
+.footerPublish {
+    margin-left: -9%;
+}
+
+.footerPublish > button {
+    padding: 5px;
+    margin-left: 18%;
+    font-size: 1em;
+    color: #ffffffd5;
+}
+
+.containerPublish {
+    border-bottom: 1px solid #80808083;
+}

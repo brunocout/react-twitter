@@ -1,0 +1,40 @@
+.trend-container {
+    padding: 10px 0px 0px 30px;
+}
+
+.trend-input {
+    background-color: rgba(51, 51, 51, 0.692);
+    width: 350px;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.trend-input input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #ffffffd5;
+    font-size: 1em;
+    margin-left: 10px;
+}
+
+.trend-input span {
+    font-size: 0.8em;
+    margin-left: 20px;
+    color: gray;
+}
+
+.trendfy {
+    margin-top: 20px;
+    height: 550px;
+    background-color: rgba(51, 51, 51, 0.692);
+    width: 350px;
+    border-radius: 15px;
+}
+
+.trendfy h1 {
+    padding: 15px;
+    font-size: 1.2em;
+}
+
+

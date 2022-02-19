@@ -1,0 +1,52 @@
+.container {
+    margin: auto;
+    margin-top: 15%;
+    text-align: center;
+    background-color: #111;
+    border-radius: 20px;
+    width: 25%;
+    min-width: 300px;
+    height: 300px;
+}
+
+h1 {
+    color: #ffffffd5;
+    font-size: 1em;
+    margin-top: 5%;
+}
+
+.github-icon {
+    margin-top: 50px;
+    font-size: 7em;
+    color: #00acee;
+}
+
+.login-area {
+    margin: auto;
+    margin-top: 20px;
+    background-color: #333;
+    width: 50%;
+    min-width: 220px;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.login-area input {
+    width: 75%;
+    background: none;
+    border: none;
+    text-decoration: none;
+    outline: none;
+    color: #ffffffd5;
+}
+
+.login-area button {
+    padding: 5px;
+    width: 20%;
+    border-radius: 10px;
+    background: #00b9ff;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: clamp(0.8em, 0.8vw, 0.8rem);
+}

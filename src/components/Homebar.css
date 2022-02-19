@@ -1,0 +1,77 @@
+.homeBar {
+    color: #ffffffd5;
+}
+
+.homeHeader > h4 {
+    font-weight: bold;
+}
+
+.homeHeader {
+    border-bottom: 1px solid #80808083;
+    padding: 0px 20px 0px 20px;
+}
+
+.homeHead {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.homeInput > input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #ffffffd5;
+    width: 80%;
+    margin-left: 15px;
+    font-size: 1.3em;
+    
+}
+
+.homeInput {
+    display: flex;
+    margin-top: 20px;
+}
+
+.homeInput input:focus-within {
+    border-bottom: 1px solid #80808083;
+}
+
+.faStar {
+    margin-top: 5px;
+}
+
+.homeButton {
+    background-color: #00acee;
+    width: 15%;
+    height: 5%;
+    text-align: center;
+    border-radius: 30px;
+
+    padding: 5px;
+    font-size: 0.8em;
+}
+
+.homeFooter {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.homeFooter > ul {
+    margin-left: 13%;
+    list-style-type: none;
+    display: flex;
+}
+
+.homeFooter > ul > li {
+    color: #00bfff;
+    padding: 8px;
+    font-size: 1.1em;
+}
+
+.imgHeader {
+    width: 50px;
+    height: 50px;
+}
+
