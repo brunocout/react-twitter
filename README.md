@@ -6,11 +6,29 @@
 
 <p align="center">In this project that brings a twitter clone merged with the github api to bring user and login information.</p>
 
-### Features
+## Features
 
 - [x] Login w/ Github user
 - [x] Twitter interface
 - [ ] Post and Comment
 - [ ] Integration w/ backend
 
-**_This project was bootstrapped with [Vite](https://vitejs.dev/)._**
+## Technologies
+
+The following tools are being used in building the project:
+
+- [Vite](https://vitejs.dev/)
+- [React](https://pt-br.reactjs.org/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
