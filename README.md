@@ -10,8 +10,22 @@
 
 - [x] Login w/ Github user
 - [x] Twitter interface
-- [ ] Post and Comment
+- [ ] Post and comments
+- [ ] Responsive layout for mobile
 - [ ] Integration w/ backend
+
+## Layout
+
+The application layout:
+
+ ### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Login" title="#Login" src="./assets/toreadme/screen1.png" width="400px">
+  <img alt="Login" title="#Login" src="./assets/toreadme/screen2.png" width="400px">
+  <img alt="TwitterInterface" title="#TwitterInterface" src="./assets/toreadme/screen3.png" width="400px">
+</p>
+
 
 ## Technologies
 
@@ -38,7 +52,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 <a href="https://github.com/brunocout">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64153944?s=400&u=097e306bac1827a4a75841f10059ea87402bd83b&v=4" width="100px;" alt=""/>
- <br /> </a>
+ <br />
+</a>
 
 Made w/ 💙 by Bruno Coutinho!
 
