@@ -32,3 +32,15 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### Autor
+---
+
+<a href="https://github.com/brunocout">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64153944?s=400&u=097e306bac1827a4a75841f10059ea87402bd83b&v=4" width="100px;" alt=""/>
+ <br /> </a>
+
+Made w/ 💙 by Bruno Coutinho!
+
+[![Linkedin Badge](https://img.shields.io/badge/-brunocout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocout/)](https://www.linkedin.com/in/brunocout/) 
+[![Gmail Badge](https://img.shields.io/badge/-iambrunocout@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iambrunocout@gmail.com)](mailto:iambrunocout@gmail.com)
