@@ -60,6 +60,6 @@ Made w/ 💙 by Bruno Coutinho!
 [![Linkedin Badge](https://img.shields.io/badge/-brunocout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocout/)](https://www.linkedin.com/in/brunocout/) 
 [![Gmail Badge](https://img.shields.io/badge/-iambrunocout@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iambrunocout@gmail.com)](mailto:iambrunocout@gmail.com)
 
-##  README VERSION
+##  README version
 
-[ Inglês 🇺🇸 ](./README.md)  |  [Português 🇧🇷](./README-br.md)
+[ English 🇺🇸 ](./README.md)  |  [Português 🇧🇷](./README-br.md)

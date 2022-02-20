@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=React-Twitter&message=Em%20construção&color=informational&style=for-the-badge&logo=ghost"/>
+  <img src="https://img.shields.io/static/v1?label=React-Twitter&message=em%20constru%C3%A7%C3%A3o&color=informational&style=for-the-badge&logo=ghost"/>
 </p>
 
 ## Sobre o projeto:
