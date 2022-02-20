@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=React-Twitter&message=em%20constru%C3%A7%C3%A3o&color=informational&style=for-the-badge&logo=ghost"/>
+  <img src="https://img.shields.io/static/v1?label=React-Twitter&message=In%20progress&color=informational&style=for-the-badge&logo=ghost"/>
 </p>
 
-## Sobre o projeto:
+## About the project
 
-<p align="center">Projeto que traz um clone do twitter mesclado com a api do github para trazer informações de usuário e login.</p>
+<p align="center">In this project that brings a twitter clone merged with the github api to bring user and login information.</p>
 
-## Recursos
+## Features
 
-- [x] Login com usuario do Github
-- [x] Interface do Twitter
-- [ ] Postagem e comentário
-- [ ] Layout responsivo para mobile
-- [ ] Integração com backend
+- [x] Login w/ Github user
+- [x] Twitter interface
+- [ ] Post and comments
+- [ ] Responsive layout for mobile
+- [ ] Integration w/ backend
 
 ## Layout
 
-Layout da aplicação:
+The application layout:
 
  ### Web
 
@@ -27,25 +27,25 @@ Layout da aplicação:
 </p>
 
 
-## Tecnologias
+## Technologies
 
-As seguintes ferramentas estão sendo usadas na construção do projeto:
+The following tools are being used in building the project:
 
 - [Vite](https://vitejs.dev/)
 - [React](https://pt-br.reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-## Iniciando
+## Getting Started
 
-Primeiro, execute o servidor de desenvolvimento:
+First, run the development server:
 
 ```bash
 npm run dev
-# ou
+# or
 yarn dev
 ```
 
-Abra [http://localhost:3000](http://localhost:3000) no seu navegador e veja o resultado.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ### Autor
 ---
@@ -55,11 +55,11 @@ Abra [http://localhost:3000](http://localhost:3000) no seu navegador e veja o re
  <br />
 </a>
 
-Feito com 💙 por Bruno Coutinho!
+Made w/ 💙 by Bruno Coutinho!
 
 [![Linkedin Badge](https://img.shields.io/badge/-brunocout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocout/)](https://www.linkedin.com/in/brunocout/) 
 [![Gmail Badge](https://img.shields.io/badge/-iambrunocout@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iambrunocout@gmail.com)](mailto:iambrunocout@gmail.com)
 
-##  Versões do README
+##  Readme version
 
-[Português 🇧🇷](./README.md)   |  [ Inglês 🇺🇸 ](./README-en.md)
+[ English 🇺🇸 ](./README.md)  |  [ Português 🇧🇷 ](./README-br.md)
