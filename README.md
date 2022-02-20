@@ -62,4 +62,4 @@ Feito com 💙 por Bruno Coutinho!
 
 ##  Versões do README
 
-[Português 🇧🇷](./README-br.md)   |  [ Inglês 🇺🇸 ](./README.md)
+[Português 🇧🇷](./README.md)   |  [ Inglês 🇺🇸 ](./README-en.md)

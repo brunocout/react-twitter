@@ -62,4 +62,4 @@ Made w/ 💙 by Bruno Coutinho!
 
 ##  README version
 
-[ English 🇺🇸 ](./README.md)  |  [Português 🇧🇷](./README-br.md)
+[ Português 🇧🇷 ](./README.md)  |  [ English 🇺🇸 ](./README-br.md)
